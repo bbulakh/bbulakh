@@ -1,8 +1,10 @@
 # Bogdan Bulakh 👨‍🎤
 
-Hi, I'm Bogdan Bulakh. I'm a 24-year-old frontend developer trainee from Russia with a passion for design and project management.
+👋 Hello! I am Bogdan, a 24-year-old professional based in Saint Petersburg. 
 
-I've worked on projects in design, marketing and project management for the past 4 years. Now I'm studying frontend at Solvery.io so that I can do some really cool tech projects!
+With experience as a project manager in the edtech industry, I am currently focusing on advancing my skills as a frontend trainee. My commitment to delivering high-quality work and driving results makes me an ideal collaborator for new partnerships. I am eager to expand my network and contribute to our mutual growth. 
+
+Let's connect and drive success together, here in the heart of Saint Petersburg and beyond! ⭐️
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
