@@ -1,6 +1,6 @@
 # Bogdan Bulakh 👨‍🎤
 
-Hi, I'm Bogdan Bulakh. I'm a 23-year-old frontend developer trainee from Russia with a passion for design and project management.
+Hi, I'm Bogdan Bulakh. I'm a 24-year-old frontend developer trainee from Russia with a passion for design and project management.
 
 I've worked on projects in design, marketing and project management for the past 4 years. Now I'm studying frontend at Solvery.io so that I can do some really cool tech projects!
 
