@@ -1,4 +1,39 @@
 # Bogdan Bulakh 👨‍🎤
+<a href="https://github.com/bbulakh">
+  <picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-github-inverted.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-github.svg">
+<img height="24" alt="Github" src="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-github.svg" width="100%">
+</picture>
+</a> &nbsp; &nbsp;
+
+<a href="https://vk.com/b.bulakh">
+  <picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-vk-inverted.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-vk.svg">
+<img height="24" alt="Vkontakte" src="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-vk.svg" width="100%">
+</picture>
+</a> &nbsp; &nbsp;
+
+<a href="https://t.me/b_bulakh">
+  <picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-telegram-inverted.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-telegram.svg">
+<img height="24" alt="Telegram" src="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-telegram.svg" width="100%">
+</picture>
+</a> &nbsp; &nbsp;
+
+<a href="mailto:bogdan.bulah@gmail.com">
+  <picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-mail-inverted.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-mail.svg">
+<img height="24" alt="Github" src="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-mail.svg" width="100%">
+</picture>
+</a> &nbsp; &nbsp;
+
+<p></p>
+
+
 
 👋 Hello! I am Bogdan, a 24-year-old professional based in Saint Petersburg. 
 
