@@ -62,7 +62,7 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 <p>
 <p>
 <a href="https://github.com/bbulakh/tailwind-ecommerce" target="_blank">
-<img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black&color=important">
 </a>
 <a href="https://tailwind-ecommerce-demo.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Live_Demo-yellow?style=for-the-badge&color=blueviolet">
@@ -80,7 +80,7 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 <br>
 <p>
 <a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank">
-<img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black&color=important">
 </a>
 <a href="https://tailwind-simple-blog-demo.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Live_Demo-yellow?style=for-the-badge&color=blueviolet">
