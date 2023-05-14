@@ -49,3 +49,46 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 👨‍💻 Featured Projects
+<br>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Maybell</h3>
+<div align="center">
+<a href="https://bbulakh.github.io/tailwind-ecommerce/" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/maybell.jpg" width="400" alt="Maybell"></a>
+<p>
+<p>
+<a href="https://bbulakh.github.io/tailwind-ecommerce/" target="_blank">
+<img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="tailwind-ecommerce-demo.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Live_Demo-yellow?style=for-the-badge&color=blueviolet">
+</a>
+</p>
+<p>A collection of free E-commerce website page templates, built with the utility-first Tailwind CSS framework.</p>
+</div>                                                                                    
+</td>
+
+<td width="50%">
+<h3 align="center">Simple Blog</h3>
+<div align="center">                                       
+<a href="https://bbulakh.github.io/tailwind-simple-blog/" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/blog.jpg" width="400" alt="Simple Blog"></a>
+<br>
+<br>
+<p>
+<a href="https://bbulakh.github.io/tailwind-simple-blog/" target="_blank">
+<img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://tailwind-simple-blog-demo.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Live_Demo-yellow?style=for-the-badge&color=blueviolet">
+</a>
+</p>
+</p>Blog, built with the utility-first Tailwind CSS framework.</p>
+</div>
+
+</td>                                                                  
+</table>                                                                                 
+</div>
