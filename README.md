@@ -58,13 +58,13 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 <td width="50%">
 <h3 align="center">Maybell</h3>
 <div align="center">
-<a href="https://bbulakh.github.io/tailwind-ecommerce/" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/maybell.jpg" width="400" alt="Maybell"></a>
+<a href="https://github.com/bbulakh/tailwind-ecommerce" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/maybell.jpg" width="400" alt="Maybell"></a>
 <p>
 <p>
-<a href="https://bbulakh.github.io/tailwind-ecommerce/" target="_blank">
+<a href="https://github.com/bbulakh/tailwind-ecommerce" target="_blank">
 <img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="tailwind-ecommerce-demo.vercel.app/" target="_blank">
+<a href="https://tailwind-ecommerce-demo.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Live_Demo-yellow?style=for-the-badge&color=blueviolet">
 </a>
 </p>
@@ -75,11 +75,11 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 <td width="50%">
 <h3 align="center">Simple Blog</h3>
 <div align="center">                                       
-<a href="https://bbulakh.github.io/tailwind-simple-blog/" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/blog.jpg" width="400" alt="Simple Blog"></a>
+<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/blog.jpg" width="400" alt="Simple Blog"></a>
 <br>
 <br>
 <p>
-<a href="https://bbulakh.github.io/tailwind-simple-blog/" target="_blank">
+<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank">
 <img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://tailwind-simple-blog-demo.vercel.app/" target="_blank">
