@@ -31,6 +31,14 @@
 </picture>
 </a> &nbsp; &nbsp;
 
+<a href="https://www.linkedin.com/in/bogdan-bulakh-393284190/">
+  <picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-linkedin-inverted.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-linkedin.svg">
+<img height="24" alt="Github" src="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-linkedin.svg" width="100%">
+</picture>
+</a> &nbsp; &nbsp;
+
 <p></p>
 
 
