@@ -122,16 +122,16 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 </td>
 
 <td width="50%">
-<h3 align="center">Simple Blog</h3>
+<h3 align="center">EdTech Platform Template</h3>
 <div align="center">                                       
-<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/blog.jpg" width="400" alt="Simple Blog"></a>
+<a href="https://github.com/bbulakh/daisyui-edtech-platform" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/project-placeholder.jpg" width="400" alt="Edtech"></a>
 <br>
 <br>
 <p>
 <a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank">
 <img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black&color=important">
 </p>
-</p>Blog, built with the utility-first Tailwind CSS framework.</p>
+</p>Edtech Platform Temolate, built with the utility-first Tailwind CSS framework and a DaisyUI component library.</p>
 </div>
 </td>
 </tr>
