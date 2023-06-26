@@ -100,7 +100,40 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 </p>
 </p>Blog, built with the utility-first Tailwind CSS framework.</p>
 </div>
+</td>
+</tr>
 
-</td>                                                                  
+<tr>
+<td width="50%">
+<h3 align="center">Master CSS Blog Template</h3>
+<div align="center">
+<a href="https://github.com/bbulakh/master-css-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/screencapture-mastercss-blog-demo-vercel-app-2023-06-26-16_11_17%201.jpg" width="400" alt="MasterCSS Blog"></a>
+<p>
+<p>
+<a href="https://github.com/bbulakh/master-css-blog" target="_blank">
+<img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black&color=important">
+</a>
+<a href="https://mastercss-blog-demo.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Live_Demo-yellow?style=for-the-badge&color=blueviolet">
+</a>
+</p>
+<p>Simple Blog, built with MasterCSS Framework</p>
+</div>                                                                                    
+</td>
+
+<td width="50%">
+<h3 align="center">Simple Blog</h3>
+<div align="center">                                       
+<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/blog.jpg" width="400" alt="Simple Blog"></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank">
+<img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black&color=important">
+</p>
+</p>Blog, built with the utility-first Tailwind CSS framework.</p>
+</div>
+</td>
+</tr>
 </table>                                                                                 
 </div>
