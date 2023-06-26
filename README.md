@@ -31,7 +31,7 @@
 </picture>
 </a> &nbsp; &nbsp;
 
-<a href="https://www.linkedin.com/in/bogdan-bulakh-393284190/">
+<a href="https://www.linkedin.com/in/bbulakh/">
   <picture height="24">
 <source height="24" media="(prefers-color-scheme: dark)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-linkedin-inverted.svg">
 <source height="24" media="(prefers-color-scheme: light)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-linkedin.svg">
