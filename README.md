@@ -141,5 +141,23 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 </div>
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">MJML E-mail Templates</h3>
+<div align="center">
+<a href="https://github.com/bbulakh/ecommerce-email" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/email-placeholder.jpg" width="400" alt="Ecommerce-email"></a>
+<p>
+<p>
+<a href="https://github.com/bbulakh/ecommerce-email" target="_blank">
+<img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black&color=important">
+</a>
+
+</p>
+<p>A collection of email templates made with MJML framework. Free to use. <br /> &#8195;</p>
+</div>                                                                                    
+</td>
+  
+</tr>
 </table>                                                                                 
 </div>
