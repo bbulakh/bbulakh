@@ -102,7 +102,9 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 <img src="https://img.shields.io/badge/-Live_Demo-yellow?style=for-the-badge&color=blueviolet">
 </a>
 </p>
-</p>Blog, built with the utility-first Tailwind CSS framework.</p>
+<p>Blog, built with the utility-first Tailwind CSS framework. <br /> &#8195;</p>
+
+
 </div>
 </td>
 </tr>
@@ -121,7 +123,7 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 <img src="https://img.shields.io/badge/-Live_Demo-yellow?style=for-the-badge&color=blueviolet">
 </a>
 </p>
-<p>Simple Blog, built with MasterCSS Framework</p>
+<p>Simple Blog, built with MasterCSS Framework <br /> &#8195;</p>
 </div>                                                                                    
 </td>
 
@@ -135,7 +137,7 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 <a href="https://github.com/bbulakh/daisyui-edtech-platform" target="_blank">
 <img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black&color=important">
 </p>
-</p>Edtech Platform Template, built with the utility-first Tailwind CSS framework and a DaisyUI component library.</p>
+<p>Edtech Platform Template, built with the utility-first Tailwind CSS framework and a DaisyUI component library.</p>
 </div>
 </td>
 </tr>
