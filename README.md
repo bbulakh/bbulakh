@@ -128,22 +128,6 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 </td>
 
 <td width="50%">
-<h3 align="center">EdTech Platform Template</h3>
-<div align="center">                                       
-<a href="https://github.com/bbulakh/daisyui-edtech-platform" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/project-placeholder.jpg" width="400" alt="Edtech"></a>
-<br>
-<br>
-<p>
-<a href="https://github.com/bbulakh/daisyui-edtech-platform" target="_blank">
-<img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black&color=important">
-</p>
-<p>Edtech Platform Template, built with the utility-first Tailwind CSS framework and a DaisyUI component library.</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
 <h3 align="center">MJML E-mail Templates</h3>
 <div align="center">
 <a href="https://github.com/bbulakh/ecommerce-email" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/email-placeholder.jpg" width="400" alt="Ecommerce-email"></a>
@@ -157,7 +141,26 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 <p>A collection of email templates made with MJML framework. Free to use. <br /> &#8195;</p>
 </div>                                                                                    
 </td>
-  
+
+
 </tr>
+
+<!--<tr>
+<td width="50%">
+<h3 align="center">EdTech Platform Template</h3>
+<div align="center">                                       
+<a href="https://github.com/bbulakh/daisyui-edtech-platform" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/project-placeholder.jpg" width="400" alt="Edtech"></a>
+<br>
+<br>
+<p>
+<a href="https://github.com/bbulakh/daisyui-edtech-platform" target="_blank">
+<img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black&color=important">
+</p>
+<p>Edtech Platform Template, built with the utility-first Tailwind CSS framework and a DaisyUI component library.</p>
+</div>
+</td>
+
+  
+</tr>-->
 </table>                                                                                 
 </div>
