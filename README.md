@@ -1,4 +1,14 @@
 # Bogdan Bulakh 👨‍🎤
+
+<a href="https://personal-homepage-demo.vercel.app/">
+  <picture height="24">
+<source height="24" media="(prefers-color-scheme: dark)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/globe-inverted.svg">
+<source height="24" media="(prefers-color-scheme: light)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/globe.svg">
+<img height="24" alt="Github" src="https://github.com/bbulakh/bbulakh/blob/main/icons/globe.svg" width="100%">
+</picture>
+</a> &nbsp; &nbsp;
+
+
 <a href="https://github.com/bbulakh">
   <picture height="24">
 <source height="24" media="(prefers-color-scheme: dark)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/icon-github-inverted.svg">
