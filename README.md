@@ -76,6 +76,7 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%238511FA.svg?style=for-the-badge&logo=parcel&logoColor=white&Color=green)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 <br><br>
 
 ### 👨‍💻 Featured Projects:
