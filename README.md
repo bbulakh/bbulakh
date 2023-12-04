@@ -1,6 +1,6 @@
 # Bogdan Bulakh 👨‍🎤
 
-<a href="https://personal-homepage-demo.vercel.app/">
+<a href="https://bbulakh.vercel.app/">
   <picture height="24">
 <source height="24" media="(prefers-color-scheme: dark)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/globe-inverted.svg">
 <source height="24" media="(prefers-color-scheme: light)" srcset="https://github.com/bbulakh/bbulakh/blob/main/icons/globe.svg">
