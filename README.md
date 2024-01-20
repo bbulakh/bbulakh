@@ -53,7 +53,7 @@
 
 
 
-👋 Hello! I am Bogdan, a 24-year-old professional based in Saint Petersburg. 
+👋 Hello! I am Bogdan, a Frontend Developer from Saint Petersburg. 
 
 With experience as a project manager in the edtech industry, I am currently focusing on advancing my skills as a frontend trainee. My commitment to delivering high-quality work and driving results makes me an ideal collaborator for new partnerships. I am eager to expand my network and contribute to our mutual growth. 
 
