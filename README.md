@@ -106,24 +106,23 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 </td>
 
 <td width="50%">
-<h3 align="center">Simple Blog</h3>
-<div align="center">                                       
-<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/blog.jpg" width="400" alt="Simple Blog"></a>
-<br>
-<br>
+<h3 align="center">Cools</h3>
+<div align="center">
+<a href="https://github.com/bbulakh/unit-converter-tools" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/cools.png" width="400" alt="Cools image"></a>
 <p>
-<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank">
+<p>
+<a href="https://github.com/bbulakh/unit-converter-tools" target="_blank">
 <img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black&color=important">
 </a>
-<a href="https://tailwind-simple-blog-demo.vercel.app/" target="_blank">
+<a href="https://unit-converter-tools.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Live_Demo-yellow?style=for-the-badge&color=blueviolet">
 </a>
 </p>
-<p>Blog, built with the utility-first Tailwind CSS framework. <br /> &#8195;</p>
-
-
-</div>
+<p>Unit converter tools built with Astro and Vue</p>
+</div>                                                                                    
 </td>
+
+
 </tr>
 
 <tr>
@@ -145,19 +144,25 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 </td>
 
 <td width="50%">
-<h3 align="center">MJML E-mail Templates</h3>
-<div align="center">
-<a href="https://github.com/bbulakh/ecommerce-email" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/email-placeholder.jpg" width="400" alt="Ecommerce-email"></a>
+<h3 align="center">Simple Blog</h3>
+<div align="center">                                       
+<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/blog.jpg" width="400" alt="Simple Blog"></a>
+<br>
+<br>
 <p>
-<p>
-<a href="https://github.com/bbulakh/ecommerce-email" target="_blank">
+<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank">
 <img src="https://img.shields.io/badge/REPO-ff9?style=for-the-badge&logo=github&logoColor=black&color=important">
 </a>
-
+<a href="https://tailwind-simple-blog-demo.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Live_Demo-yellow?style=for-the-badge&color=blueviolet">
+</a>
 </p>
-<p>A collection of email templates made with MJML framework. Free to use. <br /> &#8195;</p>
-</div>                                                                                    
+<p>Blog, built with the utility-first Tailwind CSS framework. <br /> &#8195;</p>
+
+
+</div>
 </td>
+
 
 
 </tr>
