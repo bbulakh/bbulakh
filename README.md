@@ -91,7 +91,7 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 <td width="50%">
 <h3 align="center">Maybell</h3>
 <div align="center">
-<a href="https://github.com/bbulakh/tailwind-ecommerce" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/maybell.jpg" width="400" alt="Maybell"></a>
+<a href="https://github.com/bbulakh/tailwind-ecommerce" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/main-page-screenshot.jpg" width="400" alt="Maybell"></a>
 <p>
 <p>
 <a href="https://github.com/bbulakh/tailwind-ecommerce" target="_blank">
@@ -108,7 +108,7 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 <td width="50%">
 <h3 align="center">Cools</h3>
 <div align="center">
-<a href="https://github.com/bbulakh/unit-converter-tools" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/cools.png" width="400" alt="Cools image"></a>
+<a href="https://github.com/bbulakh/unit-converter-tools" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/cools.jpg" width="400" alt="Cools image"></a>
 <p>
 <p>
 <a href="https://github.com/bbulakh/unit-converter-tools" target="_blank">
@@ -129,7 +129,7 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 <td width="50%">
 <h3 align="center">Master CSS Blog Template</h3>
 <div align="center">
-<a href="https://github.com/bbulakh/master-css-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/screencapture-mastercss-blog-demo-vercel-app-2023-06-26-16_11_17%201.jpg" width="400" alt="MasterCSS Blog"></a>
+<a href="https://github.com/bbulakh/master-css-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/bloghub.png" width="400" alt="MasterCSS Blog"></a>
 <p>
 <p>
 <a href="https://github.com/bbulakh/master-css-blog" target="_blank">
@@ -146,7 +146,7 @@ Let's connect and drive success together, here in the heart of Saint Petersburg 
 <td width="50%">
 <h3 align="center">Simple Blog</h3>
 <div align="center">                                       
-<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/blog.jpg" width="400" alt="Simple Blog"></a>
+<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/simple-blog.png" width="400" alt="Simple Blog"></a>
 <br>
 <br>
 <p>
