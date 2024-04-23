@@ -53,11 +53,11 @@
 
 
 
-👋 Hello! I am Bogdan, a Frontend Developer from Saint Petersburg. 
+👋 Hello! I am Bogdan, a Frontend Developer
 
 With experience as a project manager in the edtech industry, I am currently focusing on advancing my skills as a frontend developer. My commitment to delivering high-quality work and driving results makes me an ideal collaborator for new partnerships. I am eager to expand my network and contribute to our mutual growth. 
 
-Let's connect and drive success together, here in the heart of Saint Petersburg and beyond! ⭐️
+Let's connect and drive success together! ⭐️
 
 
 ## 🛠 Stack
