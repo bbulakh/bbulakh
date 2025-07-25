@@ -63,10 +63,10 @@ Let's connect and drive success together! ⭐️
 ## 🛠 Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![NUXT](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![NUXT](https://img.shields.io/badge/nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%238511FA.svg?style=for-the-badge&logo=astro&logoColor=white&Color=green)
 ![AlpineJS](https://img.shields.io/badge/AlpineJS-%2338B2AC.svg?style=for-the-badge&logo=alpinedotjs&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -76,7 +76,7 @@ Let's connect and drive success together! ⭐️
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MJML](https://img.shields.io/badge/MJML-%23CF4647.svg?style=for-the-badge&logo=parcel&logoColor=white&Color=green)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
-![Parcel](https://img.shields.io/badge/Parcel-%238511FA.svg?style=for-the-badge&logo=parcel&logoColor=#debf37&Color=#debf37)
+![Parcel](https://img.shields.io/badge/parcel-%238511FA.svg?style=for-the-badge&logo=parcel&logoColor=#debf37&Color=#debf37)
 ![Vite](https://img.shields.io/badge/Vite-%238511FA.svg?style=for-the-badge&logo=vite&logoColor=white&Color=blue)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
