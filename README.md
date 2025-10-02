@@ -93,7 +93,7 @@ Let's connect and drive success together! ⭐️
 <td width="50%">
 <h3 align="center">Maybell</h3>
 <div align="center">
-<a href="https://github.com/bbulakh/tailwind-ecommerce" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/main-page-screenshot.jpg" width="400" alt="Maybell"></a>
+<a href="https://github.com/bbulakh/tailwind-ecommerce" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/main-page-screenshot.jpg" width="350" alt="Maybell"></a>
 <p>
 <p>
 <a href="https://github.com/bbulakh/tailwind-ecommerce" target="_blank">
@@ -110,7 +110,7 @@ Let's connect and drive success together! ⭐️
 <td width="50%">
 <h3 align="center">Cools</h3>
 <div align="center">
-<a href="https://github.com/bbulakh/unit-converter-tools" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/cools.jpg" width="400" alt="Cools image"></a>
+<a href="https://github.com/bbulakh/unit-converter-tools" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/cools.jpg" width="350" alt="Cools image"></a>
 <p>
 <p>
 <a href="https://github.com/bbulakh/unit-converter-tools" target="_blank">
@@ -120,7 +120,7 @@ Let's connect and drive success together! ⭐️
 <img src="https://img.shields.io/badge/-Live_Demo-yellow?style=for-the-badge&color=blueviolet">
 </a>
 </p>
-<p>Unit converter tools built with Astro and Vue</p>
+<p>Unit converter tools built with Astro and Vue<br/>&nbsp;</p>
 </div>                                                                                    
 </td>
 
@@ -131,7 +131,7 @@ Let's connect and drive success together! ⭐️
 <td width="50%">
 <h3 align="center">Master CSS Blog Template</h3>
 <div align="center">
-<a href="https://github.com/bbulakh/master-css-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/bloghub.png" width="400" alt="MasterCSS Blog"></a>
+<a href="https://github.com/bbulakh/master-css-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/bloghub.png" width="350" alt="MasterCSS Blog"></a>
 <p>
 <p>
 <a href="https://github.com/bbulakh/master-css-blog" target="_blank">
@@ -148,7 +148,7 @@ Let's connect and drive success together! ⭐️
 <td width="50%">
 <h3 align="center">Simple Blog</h3>
 <div align="center">                                       
-<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/simple-blog.png" width="400" alt="Simple Blog"></a>
+<a href="https://github.com/bbulakh/tailwind-simple-blog" target="_blank"><img src="https://github.com/bbulakh/bbulakh/blob/main/images/simple-blog.png" width="350" alt="Simple Blog"></a>
 <br>
 <br>
 <p>
